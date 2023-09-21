@@ -1,0 +1,7 @@
+npm i express
+npm i nodemon
+npm i dotenv
+npm i body-parser
+npm i morgan (dung de xem xem gui request khi nao, tu thiet bi nao)
+npm i mongoose
+
